@@ -1,0 +1,8 @@
+{
+  "name": "QuizMaster AI",
+  "description": "An AI-powered 10-question quiz game with dynamic topic generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
